@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neel Shah</h1>
 
+<a href="url"><img src="https://miro.medium.com/max/1400/1*TlbU0F-waQf7_zOfhUNldQ.gif" align="right" height="348" width="548" ></a>
+
 
 ##  🚀 About Me:
 CSE STUDENT<br><br>CODING ENTHUSIASTIC<br><br>WEB + APP DEVELOPMENT ENTHUSIASTIC<br><br>LEARNING NEW THINGS<br/><br/>
