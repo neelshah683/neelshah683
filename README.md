@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neel Shah</h1><br/>
+<h1 align="center">Hi 👋, I'm Neel Shah</h1>
 
 ##  🚀 About Me:
 CSE STUDENT<br><br>CODING ENTHUSIASTIC<br><br>WEB + APP DEVELOPMENT ENTHUSIASTIC<br><br>LEARNING NEW THINGS<br/><br/>
