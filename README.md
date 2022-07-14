@@ -2,9 +2,7 @@
 
 <a href="url"><img src="https://miro.medium.com/max/1400/1*TlbU0F-waQf7_zOfhUNldQ.gif" align="right" height="248" width="348" ></a>
 
-
-<a href="url"><img src="https://i.pinimg.com/originals/98/34/ca/9834ca92125edfde01827c98b7f7d9f8.gif" align="left" height="48" width="48" ></a>
- ## About Me:
+ ## 🚀 About Me:
 CSE STUDENT<br><br>CODING ENTHUSIASTIC<br><br>WEB + APP DEVELOPMENT ENTHUSIASTIC<br><br>LEARNING NEW THINGS<br/>
 
 ## 🛠 Languages & Tools:
