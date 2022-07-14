@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neel Shah</h1>
 
-<a href="url"><img src="https://miro.medium.com/max/1400/1*TlbU0F-waQf7_zOfhUNldQ.gif" align="right" height="248" width="448" ></a>
+<a href="url"><img src="https://cdn.dribbble.com/users/1732368/screenshots/11289837/work_from_hom_size.gif" align="right" height="248" width="448" ></a>
 
 
 ##  🚀 About Me:
