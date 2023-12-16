@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙋🏻‍♂️, I'm Neel Shah</h1>
+<h1 align="center">Hi 👋, I'm Neel Shah...</h1>
 
 <img src="https://miro.medium.com/max/1400/1*TlbU0F-waQf7_zOfhUNldQ.gif" align="right" height="248" width="348" >
 
