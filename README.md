@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neel Shah</h1>
 
-<a href="url"><img src="https://miro.medium.com/max/1400/1*TlbU0F-waQf7_zOfhUNldQ.gif" align="right" height="248" width="348" ></a>
+<img src="https://miro.medium.com/max/1400/1*TlbU0F-waQf7_zOfhUNldQ.gif" align="right" height="248" width="348" >
 
 # 💫 About Me:
 🔭 I’m an IT student, who aspires to become a software engineer.<br><br>🌱 Have experience in web development, problem-solving skills, and leadership.<br><br>☠️ Perfectionist, Quick Learner, Silent Observer.<br><br>⚡ On a path to learn, build, collaborate, and deploy new things.
