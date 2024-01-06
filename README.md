@@ -2,7 +2,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p> 
   
-### <p align="center">Hi 👋, I'm Neel Shah...</p>
+### <h1 align="center">Hi 👋, I'm Neel Shah...</h1>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -41,6 +41,6 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   
-[![](https://visitcount.itsvg.in/api?id=neelshah683&icon=5&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=neelshah683&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
