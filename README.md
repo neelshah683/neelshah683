@@ -2,7 +2,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p> 
   
-### <h1 align="center">Hi 👋, I'm Neel Shah...</h1>
+### <p align="center">Hi 👋, I'm Neel Shah...</p>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -11,12 +11,14 @@
 <img src="https://miro.medium.com/max/1400/1*TlbU0F-waQf7_zOfhUNldQ.gif" align="right" height="248" width="348" >
 
 ### 💫 About Me:
-🔭 I’m an IT student, who aspires to become a software engineer.<br><br>🌱 Have experience in web development, problem-solving skills, and leadership.<br><br>☠️ Perfectionist, Quick Learner, Silent Observer.<br><br>⚡ On a path to learn, build, collaborate, and deploy new things.
+🔭 I’m an IT student, who aspires to become a software engineer.<br><br>🌱 Have experience in web development, problem-solving skills, and leadership.<br><br>💹 Eager to learn & explore different technologies.<br><br>⚡ On a path to learn, build, collaborate, and deploy new things.
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
 ### 🌐 Socials:
+<p>Feel Free to reach me here!</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neelshah683) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/neelshah683) [![gmail](https://img.shields.io/badge/Gmail-%D14836.svg?logo=gmail&logoColor=white)](https://mailto:neelshah682003@gmail.com) [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=codepen&logoColor=white)](https://vercel.com/neelshah683)
 
 <p align="left">
